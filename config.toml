@@ -2,3 +2,8 @@ baseURL = 'https://iblife.github.io'
 languageCode = 'en-us'
 title = 'Life in IB'
 theme = 'archie'
+pygmentsstyle = "monokai"
+[params]
+	useCDN=false
+	subtitle = "A not so wrong IB blog written by Syndey"
+
