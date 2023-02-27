@@ -5,5 +5,5 @@ theme = 'archie'
 pygmentsstyle = "monokai"
 [params]
 	useCDN=false
-	subtitle = "A not so wrong IB blog written by Syndey"
+	subtitle = "A not so wrong IB blog written by Sydney"
 
