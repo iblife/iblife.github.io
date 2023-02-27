@@ -1,0 +1,4 @@
+baseURL = 'https://iblife.github.io'
+languageCode = 'en-us'
+title = 'Life in IB'
+theme = 'archie'
